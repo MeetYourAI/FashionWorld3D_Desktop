@@ -1,16 +1,27 @@
 # **Fashion World | Love, Laugh, Learn, Lucrative for Fashion💃**
 
 ## **🧾Table of Contents**
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=3 orderedList=false} -->
 
-- [📖 Introduction](#Introduction)
-- [🚀How to Access Fashion World](#How-to-access)
-- [🎮Gameplay & Features](#features)
-- [⚙️Technical Details](#techdetails)
-- [🗂️Repository Structure](#repo-structure)
-- [🤝Community Contributions](#contributions)
-- [👨🏻‍💻Contact & Support](#contact-support)
+<!-- code_chunk_output -->
 
-## **📖Introduction**<a name="Introduction"></a>
+  - [**📖Introduction**](#introduction)
+  - [**🚀How to Access Fashion World**](#how-to-access-fashion-world)
+  - [**🎮Gameplay & Features**](#gameplay--features)
+  - [**⚙️Technical Details**](#️technical-details)
+    - [**🚨System Requirements**](#system-requirements)
+    - [**🖥️Tech Stack**](#️tech-stack)
+    - [**🛠️Installation & Setup**](#️installation--setup)
+  - [**🗂️Repository Structure**](#️repository-structure)
+  - [**🤝Community Contributions**](#community-contributions)
+  - [**👨🏻‍💻Contact & Support**](#contact--support)
+
+<!-- /code_chunk_output -->
+
+
+
+
+## **📖Introduction**
 
 Welcome to _Magic Worlds_ where everything is possible and the only limit is your imagination and dreams. Forever free, family friendly and open source.
 
@@ -20,7 +31,7 @@ Whether you’re dressing up for a virtual gala, competing in style challenges, 
 _Fashion World_ lets you embrace the art of fashion in an immersive and interactive way.
 
 
-## **🚀How to Access Fashion World**<a name="How-to-access"></a>
+## **🚀How to Access Fashion World**
 
 1. **Launch Magic Worlds** and enter your spaceship.
 2. **Talk to the Vice Captain** by walking up ahead and pressing `E`.
@@ -30,7 +41,7 @@ _Fashion World_ lets you embrace the art of fashion in an immersive and interact
 6. **Select Fashion World** in the World Hub.
 7. **Start Exploring**: Discover fashion districts, join design workshops, and participate in exclusive fashion events.
 
-## **🎮Gameplay & Features**<a name="features"></a>
+## **🎮Gameplay & Features**
 
 - 👗 **Runway Competitions** – Walk the virtual runway and compete in style challenges.
 - 🎨 **Fashion Design Studio** – Create custom outfits and showcase your creations.
@@ -39,7 +50,7 @@ _Fashion World_ lets you embrace the art of fashion in an immersive and interact
 - 🎭 **Themed Fashion Events** – Participate in seasonal events and earn unique rewards.
 - 🎁 **Unlockable Rewards** – Gain exclusive fashion accessories and collectibles.
 
-## **⚙️Technical Details**<a name="techdetails"></a>
+## **⚙️Technical Details**
 
 ### **🚨System Requirements**
 
@@ -80,7 +91,7 @@ _Magic Worlds_ is built using the following technologies:
 3. Extract the downloaded file (if applicable).
 4. Run the game executable to start playing.
 
-## **🗂️Repository Structure**<a name="repo-structure"></a>
+## **🗂️Repository Structure**
 
 ```plaintext
 FashionWorld3D_Desktop/
@@ -92,7 +103,7 @@ FashionWorld3D_Desktop/
 │-- LICENSE        # License details
 ```
 
-## **🤝Community Contributions**<a name="contributions"></a>
+## **🤝Community Contributions**
 
 _Fashion World_ is part of the open-source _Magic Worlds_ project. You can contribute by:
 
@@ -100,7 +111,7 @@ _Fashion World_ is part of the open-source _Magic Worlds_ project. You can contr
 - Reporting bugs and suggesting improvements.
 - Joining discussions and beta testing.
 
-## **👨🏻‍💻Contact & Support**<a name="contact-support"></a>
+## **👨🏻‍💻Contact & Support**
 
 📧 **Email**: mflynn1999@gmail.com  
 📘 **Facebook**: [Magic Worlds](https://www.facebook.com/MagikWorlds)  
